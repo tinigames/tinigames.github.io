@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+  <url>
+    <loc>https://tinigames.com/</loc>
+    <lastmod>2019-01-15</lastmod>
+  </url>
+  <url>
+    <loc>https://tinigames.com/about/</loc>
+    <lastmod>2019-01-15</lastmod>
+  </url>
+  <url>
+    <loc>https://tinigames.com/qa/</loc>
+    <lastmod>2019-01-15</lastmod>
+  </url>
+
+  <!-- category -->
+  <url>
+    <loc>https://tinigames.com/view/all/</loc>
+    <lastmod>2019-01-15</lastmod>
+  </url>
+  <url>
+    <loc>https://tinigames.com/view/new/</loc>
+    <lastmod>2019-01-15</lastmod>
+  </url>
+  <url>
+    <loc>https://tinigames.com/view/puzzle/</loc>
+    <lastmod>2019-01-15</lastmod>
+  </url>
+  <url>
+    <loc>https://tinigames.com/view/arcade/</loc>
+    <lastmod>2019-01-15</lastmod>
+  </url>
+
+  <!-- games -->
+  <url>
+    <loc>https://tinigames.com/detail/adventuroussnake/</loc>
+    <lastmod>2019-01-15</lastmod>
+  </url>
+  <url>
+    <loc>https://tinigames.com/games/adventuroussnake/</loc>
+    <lastmod>2019-01-15</lastmod>
+  </url>
+
+  <url>
+    <loc>https://tinigames.com/detail/blockspuzzle/</loc>
+    <lastmod>2019-01-15</lastmod>
+  </url>
+  <url>
+    <loc>https://tinigames.com/games/blockspuzzle/</loc>
+    <lastmod>2019-01-15</lastmod>
+  </url>
+
+  <url>
+    <loc>https://tinigames.com/detail/hungryman/</loc>
+    <lastmod>2019-01-15</lastmod>
+  </url>
+  <url>
+    <loc>https://tinigames.com/games/hungryman/</loc>
+    <lastmod>2019-01-15</lastmod>
+  </url>
+
+  <url>
+    <loc>https://tinigames.com/detail/jumpjump/</loc>
+    <lastmod>2019-01-15</lastmod>
+  </url>
+  <url>
+    <loc>https://tinigames.com/games/jumpjump/</loc>
+    <lastmod>2019-01-15</lastmod>
+  </url>
+
+  <url>
+    <loc>https://tinigames.com/detail/matchtheanimals/</loc>
+    <lastmod>2019-01-15</lastmod>
+  </url>
+  <url>
+    <loc>https://tinigames.com/games/matchtheanimals/</loc>
+    <lastmod>2019-01-15</lastmod>
+  </url>
+
+  <url>
+    <loc>https://tinigames.com/detail/squarejump/</loc>
+    <lastmod>2019-01-15</lastmod>
+  </url>
+  <url>
+    <loc>https://tinigames.com/games/squarejump/</loc>
+    <lastmod>2019-01-15</lastmod>
+  </url>
+
+  <url>
+    <loc>https://tinigames.com/detail/squarejump2/</loc>
+    <lastmod>2019-01-15</lastmod>
+  </url>
+  <url>
+    <loc>https://tinigames.com/games/squarejump2/</loc>
+    <lastmod>2019-01-15</lastmod>
+  </url>
+
+  <url>
+    <loc>https://tinigames.com/detail/switchcolor/</loc>
+    <lastmod>2019-01-15</lastmod>
+  </url>
+  <url>
+    <loc>https://tinigames.com/games/switchcolor/</loc>
+    <lastmod>2019-01-15</lastmod>
+  </url>
+
+  <url>
+    <loc>https://tinigames.com/detail/waybackhome/</loc>
+    <lastmod>2019-01-15</lastmod>
+  </url>
+  <url>
+    <loc>https://tinigames.com/games/waybackhome/</loc>
+    <lastmod>2019-01-15</lastmod>
+  </url>
+</urlset>
