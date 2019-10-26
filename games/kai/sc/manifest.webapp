@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0",
+  "name": "Switch Color",
+  "description": "Have fun by playing the exciting games",
+  "launch_path": "/index.html",
+  "fullscreen": "true",
+  "icons": {
+    "56": "/icon-56.png",
+    "112": "/icon-112.png",
+    "128": "/icon-128.png"
+  },
+  "developer": {
+    "name": "Tini Games",
+    "url": "https://tinigames.com"
+  },
+  "locales": {
+    "en-US": {
+      "name": "Switch Color",
+      "description": "Override description"
+    }
+  },
+  "default_locale": "en-US",
+  "type": "web",
+  "orientation": ["portrait-primary"],
+  "subtitle": "subtitle in kaistore"
+}

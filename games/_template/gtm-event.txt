@@ -1,0 +1,47 @@
+I. Game events
+0. gameLaunch (auto event)
+    gameId: game
+
+1. sectionStart
+    section: 'section name'
+    param1: time
+
+2. sectionEnter
+    section: 'section name'
+    param1: time
+
+3. sectionEnd
+    section: 'section name'
+    param1: time
+
+4. levelResult:
+    level: level name
+    result: 'win/lose'
+    score: number
+
+II. Ads events
+1. playAds
+    gameId: game
+
+2. requestAds
+    gameId: game
+
+3. playAdsException
+    gameId: game
+
+4. adsStart
+    gameId: game
+
+5. adsComplete
+    gameId: game
+
+6. adsClick
+    gameId: game
+
+7. playAdsError
+    gameId: game
+    param1: errorCode
+
+8. requestAdsError
+    gameId: game
+    param1: errorCode
